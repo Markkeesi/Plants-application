@@ -349,7 +349,7 @@ class ZebraState extends State<Zebra> {
         ),
         centerTitle: true,
         title: const Text(
-          'Zebra Alokasia',
+          'Seebra Alokasia',
           style: TextStyle(
             fontWeight: FontWeight.bold,
             fontSize: 35,
@@ -507,7 +507,7 @@ class PulloState extends State<Pullo> {
         ),
         centerTitle: true,
         title: const Text(
-          'Pullopalmu',
+          'PulloJukka',
           style: TextStyle(
             fontWeight: FontWeight.bold,
             fontSize: 35,
