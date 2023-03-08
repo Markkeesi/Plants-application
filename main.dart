@@ -172,7 +172,7 @@ class FirstPageState extends State<FirstPage> {
                   ),
                 ),
                 child: const Text(
-                  'Zebra Alokasia',
+                  'Seebra Alokasia',
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     fontSize: 20,
@@ -224,7 +224,7 @@ class FirstPageState extends State<FirstPage> {
                   ),
                 ),
                 child: const Text(
-                  'Pullopalmu',
+                  'PulloJukka',
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     fontSize: 20,
